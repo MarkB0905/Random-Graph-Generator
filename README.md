@@ -7,4 +7,4 @@ After creating the graph the program will check the given graph and return vario
 
 At the end of the assignment we were asked to create 500 graphs for 10 different probabilities and see if each probability upholds various conditioins.
   
-This assignment was graded 120/100 for being clean, easy to read, and having an outstanding running time.
+This assignment was graded 120/100 with 20 points bonus for being clean, easy to read, and having an outstanding running time.
